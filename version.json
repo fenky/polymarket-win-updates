@@ -1,9 +1,9 @@
 {
   "product": "polymarket_win_tkinter",
-  "latest_version": "2.160",
+  "latest_version": "2.161",
   "release_date": "2026-06-01",
   "mandatory": false,
-  "download_url": "https://github.com/fenky/polymarket-win-updates/releases/download/v2.160/PolymarketTkinter.exe",
-  "sha256": "b22551aada4415744cdbe373bf18b790557e56555ff5f0ebd184471014efb7c0",
+  "download_url": "https://github.com/fenky/polymarket-win-updates/releases/download/v2.161/PolymarketTkinter.exe",
+  "sha256": "3496e31d414eb11b573d41b588946ab55091502591fc7b34562865e32f3ed168",
   "notes": "Bug fixes and stability improvements."
 }
