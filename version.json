@@ -4,6 +4,6 @@
   "release_date": "2026-08-23",
   "mandatory": false,
   "download_url": "https://github.com/fenky/polymarket-win-updates/releases/download/v2.236/PolymarketTkinter.exe",
-  "sha256": "0bbe3a497016a33efe56f2c5f01e479454e6d4bc85a3ceba54dbbe07891d14d0",
+  "sha256": "a3638b0c6231b54b4713861f8b5ebae746c051dc7234d9f4da28209fa1543563",
   "notes": "Bug fixes and stability improvements."
 }
